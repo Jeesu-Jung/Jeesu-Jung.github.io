@@ -11,26 +11,21 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Intelligence Software Lab, Chungnam National University, Republic of Korea, 2026 (expected)
 * M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Computer Science and Engineering, 2021
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
+* Summer 2022: Korean Telecome Research Assistant Internship
   * Github University
   * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Supervisor: Du-seong Chang and Sangkeun Jung
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Winter 2024: Teaching Assistant of Samsung Software Academy For Youth  
+  * Teaching students' projects for RAG system
+  * Base code and presentation file creation
+  * Supervisor: Junbum Lee
   
 Skills
 ======
